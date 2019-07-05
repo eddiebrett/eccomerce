@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/eddiebrett/eccomerce.svg?branch=master)](https://travis-ci.org/eddiebrett/eccomerce)
+[![Build Status](https://travis-ci.org/eddiebrett/ecommerce.svg?branch=master)](https://travis-ci.org/eddiebrett/ecommerce)
 
 ___        ______     ____ _                 _  ___  
         / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
@@ -14,3 +14,4 @@ To get started, create some files, play with the terminal,
 or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
+
